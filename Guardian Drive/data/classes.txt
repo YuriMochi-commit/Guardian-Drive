@@ -1,0 +1,58 @@
+"T" shaped intersection ahead
+"U" turn ahead
+Animal crossing ahead
+Bicycle path crossing ahead / Bicycles often cross
+Bridge that can be raised ahead
+Crossroad ahead
+Double bend road ahead, first to the left
+Double bend road ahead, first to the right
+End of Priority Road
+Equal four-way intersection ahead
+Give way sign ahead
+Gravel/loose stone road ahead
+Landslide or cliff collapse prone area ahead
+Left fork ahead
+Motorcycle path crossing ahead / Motorcycles often cross
+Narrow bridge ahead
+Narrow road ahead
+No Bicycles
+No Cars
+No Motorcycles
+No Pedestrians
+No Trucks
+No Vehicles Carrying Hazardous Materials
+No Vehicles with Trailers
+One-way traffic ahead
+Pedestrian crossing ahead
+Pedestrian path ahead
+Priority Road
+Priority road in merging traffic
+Railway crossing with gate ahead
+Right fork ahead
+Road construction ahead
+Road depression ahead / Road flooded ahead
+Road narrows on the left side ahead
+Road narrows on the right side ahead
+Road shoulders are low ahead / Road shoulders are not firm ahead
+Roadwork ahead
+Roundabout ahead
+School ahead
+Sharp curve to the left ahead
+Sharp curve to the right ahead
+Side road on the left ahead
+Side road on the right ahead
+Slippery road ahead
+Staggered junction ahead (left then right)
+Staggered junction ahead (right then left)
+Steep ascent ahead
+Steep descent ahead
+Stop
+Stop ahead
+T-junction ahead
+Traffic light ahead
+Tunnel ahead
+Two-way traffic ahead
+Uneven road ahead (hump) / Speed Hump ahead
+Uneven road ahead (wavy)
+Unprotected quay or river bank ahead
+Y-junction ahead

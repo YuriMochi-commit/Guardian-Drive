@@ -1,0 +1,241 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "\"T\" shaped intersection ahead"
+    },
+    {
+      "id": 1,
+      "name": "\"U\" turn ahead"
+    },
+    {
+      "id": 2,
+      "name": "Animal crossing ahead"
+    },
+    {
+      "id": 3,
+      "name": "Bicycle path crossing ahead \/ Bicycles often cross"
+    },
+    {
+      "id": 4,
+      "name": "Bridge that can be raised ahead"
+    },
+    {
+      "id": 5,
+      "name": "Crossroad ahead"
+    },
+    {
+      "id": 6,
+      "name": "Double bend road ahead, first to the left"
+    },
+    {
+      "id": 7,
+      "name": "Double bend road ahead, first to the right"
+    },
+    {
+      "id": 8,
+      "name": "End of Priority Road"
+    },
+    {
+      "id": 9,
+      "name": "Equal four-way intersection ahead"
+    },
+    {
+      "id": 10,
+      "name": "Give way sign ahead"
+    },
+    {
+      "id": 11,
+      "name": "Gravel\/loose stone road ahead"
+    },
+    {
+      "id": 12,
+      "name": "Landslide or cliff collapse prone area ahead"
+    },
+    {
+      "id": 13,
+      "name": "Left fork ahead"
+    },
+    {
+      "id": 14,
+      "name": "Motorcycle path crossing ahead \/ Motorcycles often cross"
+    },
+    {
+      "id": 15,
+      "name": "Narrow bridge ahead"
+    },
+    {
+      "id": 16,
+      "name": "Narrow road ahead"
+    },
+    {
+      "id": 17,
+      "name": "No Bicycles"
+    },
+    {
+      "id": 18,
+      "name": "No Cars"
+    },
+    {
+      "id": 19,
+      "name": "No Motorcycles"
+    },
+    {
+      "id": 20,
+      "name": "No Pedestrians"
+    },
+    {
+      "id": 21,
+      "name": "No Trucks"
+    },
+    {
+      "id": 22,
+      "name": "No Vehicles Carrying Hazardous Materials"
+    },
+    {
+      "id": 23,
+      "name": "No Vehicles with Trailers"
+    },
+    {
+      "id": 24,
+      "name": "One-way traffic ahead"
+    },
+    {
+      "id": 25,
+      "name": "Pedestrian crossing ahead"
+    },
+    {
+      "id": 26,
+      "name": "Pedestrian path ahead"
+    },
+    {
+      "id": 27,
+      "name": "Priority Road"
+    },
+    {
+      "id": 28,
+      "name": "Priority road in merging traffic"
+    },
+    {
+      "id": 29,
+      "name": "Railway crossing with gate ahead"
+    },
+    {
+      "id": 30,
+      "name": "Right fork ahead"
+    },
+    {
+      "id": 31,
+      "name": "Road construction ahead"
+    },
+    {
+      "id": 32,
+      "name": "Road depression ahead \/ Road flooded ahead"
+    },
+    {
+      "id": 33,
+      "name": "Road narrows on the left side ahead"
+    },
+    {
+      "id": 34,
+      "name": "Road narrows on the right side ahead"
+    },
+    {
+      "id": 35,
+      "name": "Road shoulders are low ahead \/ Road shoulders are not firm ahead"
+    },
+    {
+      "id": 36,
+      "name": "Roadwork ahead"
+    },
+    {
+      "id": 37,
+      "name": "Roundabout ahead"
+    },
+    {
+      "id": 38,
+      "name": "School ahead"
+    },
+    {
+      "id": 39,
+      "name": "Sharp curve to the left ahead"
+    },
+    {
+      "id": 40,
+      "name": "Sharp curve to the right ahead"
+    },
+    {
+      "id": 41,
+      "name": "Side road on the left ahead"
+    },
+    {
+      "id": 42,
+      "name": "Side road on the right ahead"
+    },
+    {
+      "id": 43,
+      "name": "Slippery road ahead"
+    },
+    {
+      "id": 44,
+      "name": "Staggered junction ahead (left then right)"
+    },
+    {
+      "id": 45,
+      "name": "Staggered junction ahead (right then left)"
+    },
+    {
+      "id": 46,
+      "name": "Steep ascent ahead"
+    },
+    {
+      "id": 47,
+      "name": "Steep descent ahead"
+    },
+    {
+      "id": 48,
+      "name": "Stop"
+    },
+    {
+      "id": 49,
+      "name": "Stop ahead"
+    },
+    {
+      "id": 50,
+      "name": "T-junction ahead"
+    },
+    {
+      "id": 51,
+      "name": "Traffic light ahead"
+    },
+    {
+      "id": 52,
+      "name": "Tunnel ahead"
+    },
+    {
+      "id": 53,
+      "name": "Two-way traffic ahead"
+    },
+    {
+      "id": 54,
+      "name": "Uneven road ahead (hump) \/ Speed Hump ahead"
+    },
+    {
+      "id": 55,
+      "name": "Uneven road ahead (wavy)"
+    },
+    {
+      "id": 56,
+      "name": "Unprotected quay or river bank ahead"
+    },
+    {
+      "id": 57,
+      "name": "Y-junction ahead"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
